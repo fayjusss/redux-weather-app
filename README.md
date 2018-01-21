@@ -1,4 +1,4 @@
-# Redux Book App
+# Redux Weather App
 Shows 5 day weather forecasts for any US cities. Made using React+Redux, openweathermap API, google map API.
 
 ### Covers following topic
